@@ -1,0 +1,20 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "This is MERN webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "20/2/22",
+    "sunday"
+  ],
+  "author": "yash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0"
+  }
+}
